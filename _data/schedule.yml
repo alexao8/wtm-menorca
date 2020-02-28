@@ -1,25 +1,25 @@
 - 
-  date: "2017-03-10"
-  dateReadable: "10 de Marzo"
+  date: "2020-03-16"
+  dateReadable: "16 de Marzo"
   tracks: 
     - {title: "Ponente", color: "#90be4e"}
   timeslots:
     - {
-    	startTime: "09:30",
-    	endTime: "10:00",
+    	startTime: "17:00",
+    	endTime: "17:40",
     	sessionIds: [301, 302]
     }
     - {
-        startTime: "10:00",
-        endTime: "10:30",
+        startTime: "17:40",
+        endTime: "18:20",
         sessionIds: [303]
     }
     - {
-        startTime: "10:35",
-        endTime: "11:05",
+        startTime: "18:20",
+        endTime: "19:00",
         sessionIds: [304]
     }
-    - {
+ //   - {
         startTime: "11:05",
         endTime: "11:35",
         sessionIds: [310]
@@ -71,3 +71,4 @@
         endTime: "19:40",
         sessionIds: [307]
       }
+      //
