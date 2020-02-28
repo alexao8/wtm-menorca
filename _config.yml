@@ -10,8 +10,8 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "WTM Menorca 2017"
-email: "gdgmenorca@gmail.com"
+title: "IWD Women TechMakers Menorca 2020"
+email: "gdg.menorca@gmail.com"
 description: "Women Techmakers"
 baseurl: "http://wtm.gdgmenorca.com/"
 url: "http://wtm.gdgmenorca.com"
