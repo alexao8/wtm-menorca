@@ -7,21 +7,20 @@
     - {
     	startTime: "17:00",
     	endTime: "17:40",
-    	sessionIds: [301, 302]
+    	sessionIds: [301]
     }
     - {
         startTime: "17:40",
         endTime: "18:20",
-        sessionIds: [303]
+        sessionIds: [302]
     }
     - {
         startTime: "18:20",
         endTime: "19:00",
-        sessionIds: [304]
+        sessionIds: [303]
     }
     - {
         startTime: "19:00",
         endTime: "20:00",
-        sessionIds: [310]
+        sessionIds: [304]
       }
- 
