@@ -1,18 +1,24 @@
 -
-  id: 301
-  title: "Magdalena Payeras"
-  place: ""
-  service: false
-  description: ""
+ id: 301
+ title: "Magdalena Payeras"
+ place: ""
+ service: false
+ description: ""
 -
-  id: 302
-  title: "Judit Nieto"
-  place: ""
-  service: false
-  description: ""
-  -
-  id: 304
-  title: "<h4>Mesa redonda sobre la situacón actual de la mujer en la tecnología"
-  place: ""
-  service: false
-  description: "Con Amàlia Duch i Judit Nieto"
+ id: 302
+ title: "Judit Nieto"
+ place: ""
+ service: false
+ description: ""
+-
+ id: 303
+ title: "Amàlia Duch"
+ place: ""
+ service: false
+ description: "<h4>"
+-
+ id: 304
+ title: "<h4>Mesa redonda sobre la situacón actual de la mujer en la tecnología"
+ place: ""
+ service: false
+ description: "Con Amàlia Duch i Judit Nieto"
