@@ -3,8 +3,7 @@
   title: "Magdalena Payeras"
   place: ""
   service: false
-  description: "Tecnologia Blockchain: més enllà del Bitcoin
-                Les criptomonedes són sistemes de pagament distribuits, que difereixen dels sistemes tradicionals en l'eliminació d'una entitat central que s'encarregui d'emetre i validar moneda.  Estan estretament relacionades amb la tecnología blockchain, o cadena de blocs. Veurem com aquesta tecnologia obre les portes a nous tipus d'aplicacions per a àmbits molt diversos"
+  description: ""
 -
   id: 302
   title: "Judit Nieto"
@@ -23,4 +22,3 @@
   place: ""
   service: false
   description: "Con Amàlia Duch i Judit Nieto"
--
