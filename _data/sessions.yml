@@ -1,21 +1,25 @@
 -
  id: 301
- title: "Magdalena Payeras"
+ title: "Tecnologia Blockchain: més enllà del Bitcoin - Magdalena Payeras"
  place: ""
  service: false
- description: ""
+ description: "Les criptomonedes són sistemes de pagament distribuits, que difereixen dels sistemes tradicionals en l'eliminació d'una entitat central que s'encarregui d'emetre i validar moneda.  Estan estretament relacionades amb la tecnología blockchain, o cadena de blocs. Veurem com aquesta tecnologia obre les portes a nous tipus d'aplicacions per a àmbits molt diversos."
 -
  id: 302
- title: "Judit Nieto"
+ title: "La importancia de la Calidad del Dato - Judit Nieto" 
  place: ""
  service: false
- description: ""
+ description: " ¿Qué tienen en común los proyectos de Big Data, Inteligencia Artificial, Machine Learning? Que necesitan datos.
+Pero qué pasa si nos hemos dedicado a almacenar y/o almacenar datos y no les hemos prestado la atención necesaria?
+En esta charla veremos porqué es importante mimar al dato desde sus inicios para poder generar herramientas y productos de calidad."
 -
  id: 303
- title: "Amàlia Duch"
+ title: "Algoritmos y datos: la esencia de los computadores - Amàlia Duch"
  place: ""
  service: false
- description: "<h4>"
+ description: "¿Cómo se guardan en  un ordenador  tus contactos de facebook? ¿Cómo busca GoogleMaps las gasolineras más cercanas? 
+¿Cómo ordena tu teléfono a tu lista de contactos para encontrarlos fácil y rápido?
+En esta plática contestaremos estas preguntas dando un breve paseo por las formas que tienen los computadores de representar, guardar y ordenar información y del significado y la importancia de hacerlo eficientemente."
 -
  id: 304
  title: "<h4>Mesa redonda sobre la situacón actual de la mujer en la tecnología"
